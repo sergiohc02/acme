@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>localhost/viajes/mallos/</loc>
+    <lastmod>2022-09-27T08:55:04+02:00</lastmod>
+  </url><url>
+    <loc>localhost/viajes/</loc>
+    <lastmod>2022-09-27T08:55:04+02:00</lastmod>
+  </url><url>
+    <loc>localhost/viajes/benasque/</loc>
+    <lastmod>2022-09-26T08:55:04+02:00</lastmod>
+  </url><url>
+    <loc>localhost/</loc>
+    <lastmod>2022-09-21T08:55:04+02:00</lastmod>
+  </url><url>
+    <loc>localhost/viajes/pirineo/</loc>
+    <lastmod>2022-09-21T08:55:04+02:00</lastmod>
+  </url><url>
+    <loc>localhost/curriculum/</loc>
+    <lastmod>2022-09-21T08:53:49+02:00</lastmod>
+  </url><url>
+    <loc>localhost/blog/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>localhost/contacto/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>localhost/categories/</loc>
+  </url><url>
+    <loc>localhost/tags/</loc>
+  </url>
+</urlset>

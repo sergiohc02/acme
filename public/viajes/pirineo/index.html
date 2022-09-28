@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset= "utf-8" >
+    <meta name="viewport" content= "width=device-width, initial-scale=1" >
+    <title>SHC SERVICIOS WEB</title>
+
+    
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-iYQeCzEYFbKjA/T2uDLTpkwGzCiq6soy8tYaI1GyVh/UjpbCx/TYkiZhlZB6+fzT" crossorigin="anonymous">
+
+ <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css"
+   integrity="sha256-sA+zWATbFveLLNqWO2gtiw3HL/lh1giY/Inf1BJ0z14="
+   crossorigin=""/>
+
+<style>
+#map { height: 240px; }
+</style>
+
+</head>
+</head>
+    <body><nav class="navbar navbar-expand-lg bg-light">
+    <div class="container-fluid">
+      <a class="navbar-brand" href="/">SHC SERVICIOS WEB</a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      
+        <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+          
+              <li class="nav-item">
+              <a class='nav-link '  href="localhost/curriculum">CURRICULUM</a>
+              </li>
+          
+              <li class="nav-item">
+              <a class='nav-link '  href="localhost/contacto">CONTACTO</a>
+              </li>
+          
+              <li class="nav-item">
+              <a class='nav-link '  href="localhost/blog">BLOG</a>
+              </li>
+          
+              <li class="nav-item">
+              <a class='nav-link '  href="localhost/viajes">VIAJES</a>
+              </li>
+          
+        </ul>
+        <form class="d-flex" role="search">
+          <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+          <button class="btn btn-outline-success" type="submit">Search</button>
+        </form>
+      </div>
+    </div>
+  </nav>
+  
+  <header>
+    <h1 class="text-center">SHC SERVICIOS WEB</h1>
+</header><div id="content">
+<div class="container">
+<h1 class="titulo">Pirineo</h1>
+ <div id="map"></div>
+<h2 id="pirineo">PIRINEO</h2>
+<p>Soy de Madrid y más castiza que el chotis. Pero tengo muy claro que me gustaría retirarme en el Pirineo. Y es que tiene todo lo que necesito: buena gastronomía, paisajes de infarto, rutas de senderismo para todos los gustos y niveles, pueblos preciosos, actividades deportivas tanto en invierno como en verano, buena gente… Por eso, cuando alguien me pregunta qué hacer en el Pirineo aragonés siempre respondo lo mismo: depende de lo que busques y del plan que lleves.</p>
+<p><img src="https://i0.wp.com/www.lamochilademama.com/wp-content/uploads/2020/11/banco-refugio-respomuso-pirineo.jpg?w=770&amp;ssl=1" alt="Mi viaje"></p>
+<p>contemplando el ibón de respomuso desde el banco del refugio
+Ibón de Respomuso
+El Pirineo es uno de los mayores orgullos de Aragón, y no es para menos. Todo el que lo visita, repite. Increíbles montañas nevadas, ibones cristalinos, cascadas, bosques y un sinfín de cosas más hacen del Pirineo aragonés un destino único para disfrutar de la naturaleza.</p>
+
+</div>
+
+ <script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js"
+   integrity="sha256-NDI0K41gVbWqfkkaHj15IzU7PtMoelkzyKp8TOaFQ3s="
+   crossorigin=""></script>
+ 
+        </div><footer  class="text-center">
+    <small>&copy; 2022 Yo.</small><div class="container">
+    <table class="table table-sm">
+      <caption>Hugo Variables for current page</caption>
+      <tr><th>Name</th><td>Pirineo</td></tr>
+      <tr><th>Kind</th><td>page</td></tr>
+      <tr><th>Type</th><td>viajes</td></tr>
+      <tr><th>List Page</th><td>.Pages</td></tr>
+      <tr><th>IsPage</th><td>true</td></tr>
+      <tr><th>IsHome</th><td>true</td></tr>
+      <tr><th>Next</th><td>Page(/viajes/benasque.md)</td></tr>
+      <tr><th>Prev</th><td>Page(/curriculum.md)</td></tr>
+      <tr><th>Section</th><td>Page(/viajes/_index.md)</td></tr>
+    </table>
+  </div></footer>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-u1OknCvxWvY5kfmNBILK2hRnQC3Pr17a+RTT6rIHI7NnikvbZlHgTPOOmMi466C8" crossorigin="anonymous"></script>
+<script>
+var map = L.map('map').setView([ null ,  null ], 13);
+
+L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+}).addTo(map);
+
+L.marker([ null ,  null 
+]).addTo(map)
+    .bindPopup('Pirineo');
+    
+</script>
+
+
+    </body>
+</html>

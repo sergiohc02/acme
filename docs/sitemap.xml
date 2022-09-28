@@ -20,6 +20,9 @@
     <loc>/acme/curriculum/</loc>
     <lastmod>2022-09-21T08:53:49+02:00</lastmod>
   </url><url>
+    <loc>/acme/blog/</loc>
+    <priority>0</priority>
+  </url><url>
     <loc>/acme/contacto/</loc>
     <priority>0</priority>
   </url><url>

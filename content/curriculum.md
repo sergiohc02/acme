@@ -1,7 +1,7 @@
 ---
 title: "Curriculum"
 date: 2022-09-21T08:53:49+02:00
-draft: true
+draft: false
 ---
 
 ## Mi Curriculum

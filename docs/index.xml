@@ -1,16 +1,62 @@
 <rss version="2.0"
   xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>SHC SERVICIOS WEB</title>
-    <link>/acme/</link>
-    <description>Recent content on SHC SERVICIOS WEB</description>
+    <title>ACME Corp. on SHC SERVICIOS WEB</title>
+    <link>http://localhost/acme/</link>
+    <description>Recent content in ACME Corp. on SHC SERVICIOS WEB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
     <managingEditor>contact@shcservices.es (SHC SERVICIOS WEB)</managingEditor>
     <webMaster>contact@shcservices.es (SHC SERVICIOS WEB)</webMaster>
+    <lastBuildDate>Wed, 21 Sep 2022 08:55:04 +0200</lastBuildDate>
     
-        <atom:link href="/acme/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://localhost/acme/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+<title>MALLOS DE RIGLOS</title>
+<link>http://localhost/acme/viajes/mallos/</link>
+<pubDate>Tue, 27 Sep 2022 08:55:04 +0200</pubDate>
+      <author>contact@shcservices.es (SHC SERVICIOS WEB)</author>
+      <guid>http://localhost/acme/viajes/mallos/</guid>
+<description></description>
+<category></category></item>
+    
+    <item>
+<title>BENASQUE</title>
+<link>http://localhost/acme/viajes/benasque/</link>
+<pubDate>Mon, 26 Sep 2022 08:55:04 +0200</pubDate>
+      <author>contact@shcservices.es (SHC SERVICIOS WEB)</author>
+      <guid>http://localhost/acme/viajes/benasque/</guid>
+<description></description>
+<category></category></item>
+    
+    <item>
+<title>Pirineo</title>
+<link>http://localhost/acme/viajes/pirineo/</link>
+<pubDate>Wed, 21 Sep 2022 08:55:04 +0200</pubDate>
+      <author>contact@shcservices.es (SHC SERVICIOS WEB)</author>
+      <guid>http://localhost/acme/viajes/pirineo/</guid>
+<description></description>
+<category></category></item>
+    
+    <item>
+<title>Curriculum</title>
+<link>http://localhost/acme/curriculum/</link>
+<pubDate>Wed, 21 Sep 2022 08:53:49 +0200</pubDate>
+      <author>contact@shcservices.es (SHC SERVICIOS WEB)</author>
+      <guid>http://localhost/acme/curriculum/</guid>
+<description></description>
+<category></category></item>
+    
+    <item>
+<title></title>
+<link>http://localhost/acme/contacto/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>contact@shcservices.es (SHC SERVICIOS WEB)</author>
+      <guid>http://localhost/acme/contacto/</guid>
+<description></description>
+<category></category></item>
     
   </channel>
 </rss>

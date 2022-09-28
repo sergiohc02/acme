@@ -1,4 +1,4 @@
-baseURL: /acme
+baseURL: http://localhost/acme/
 languageCode: es-es
 title: SHC SERVICIOS WEB
 theme: Eclectic
@@ -18,14 +18,18 @@ menu:
       name: CURRICULUM
       url: /curriculum
       weight: 40
-    - identifier: contact
+    - identifier: contacto
       name: CONTACTO
-      url: /contact
+      url: /contacto
       weight: 50 
     - identifier: viajes
       name: VIAJES 
       url: /viajes 
       weight: 100
+    - identifier: blog
+      name: BLOG 
+      url: /blog 
+      weight: 60
 params: 
   colorPickerEnabled: true
   color: "#4546e5"

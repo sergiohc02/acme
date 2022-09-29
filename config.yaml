@@ -15,7 +15,7 @@ author:
 menu:
   main: 
     - identifier: curriculum
-      name: CURRICULUM
+      name: ACERCA DE
       url: /curriculum
       weight: 40
     - identifier: contacto

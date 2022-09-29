@@ -1,5 +1,5 @@
 ---
-title: "Curriculum"
+title: "Acerca de"
 date: 2022-09-21T08:53:49+02:00
 draft: false
 ---

@@ -1,7 +1,7 @@
-baseURL: "localhost"
+baseURL: /acme
 languageCode: es-es
 title: SHC SERVICIOS WEB
-theme: basico
+theme: Eclectic
 
 author: 
   facebook: "https://facebook.com/SHCservices" 
@@ -30,6 +30,10 @@ menu:
       name: BLOG 
       url: /blog 
       weight: 60
+    - identifier: canales
+      name: CANALES 
+      url: /television/canales 
+      weight: 70
 params: 
   colorPickerEnabled: true
   color: "#4546e5"

@@ -1,0 +1,25 @@
+{{ define "main" }}
+<div class="container">
+<h1 class="titulo">{{ .Title }}</h1>
+{{ .Content }}
+
+<h2>DATOS TV</h2>
+<ul>
+{{ range.Site.Data.tv}}
+
+{{ if eq .name "Deportivos"}}
+
+    <li>{{ .name }}</li>
+    <ul>
+        {{ range .channels}}
+            <li><a href="{{ .web }}">
+                
+                <img src="{{ .logo}}" alt="{{ .name}}"></a></li>
+        {{ end }}
+    </ul>
+    
+{{ end }}
+{{ end }}
+</ul>
+</div>
+{{ end }}

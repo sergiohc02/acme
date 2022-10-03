@@ -1,0 +1,19 @@
+{{ define "main" }}
+<div class="container">
+    <h1 class="titulo">{{ .Title }}</h1>
+    {{ .Content }}
+<div class="col-md-4">
+    <h2>DATOS TV</h2>
+    <table>
+        {{ range.Site.Data.datos_pelis}}
+        <tr>
+            <td><a href="https://www.imdb.com/{{.url}}"><img src="{{.img}}" alt="{{.name}}"></a></td>
+        </tr>
+        <tr>
+            <td>{{ .titulo }}</td>
+        </tr>
+
+        {{ end }}
+    </table>
+</div>
+{{ end }}

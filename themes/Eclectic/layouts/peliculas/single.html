@@ -1,0 +1,11 @@
+{{ define "main" }}
+<div class="container">
+    <h1 class="titulo">{{ .Title }}</h1>
+{{.Content}}
+<table class="table">
+{{range .Site.Data.datos_pelis}}
+<tr><td>{{ .titulo }}</td></tr>
+{{end}}
+</table>
+</div>
+{{end}}

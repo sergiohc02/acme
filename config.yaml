@@ -30,10 +30,10 @@ menu:
       name: BLOG 
       url: /blog 
       weight: 60
-    - identifier: canales
-      name: CANALES 
-      url: /television/canales 
-      weight: 70
+    - identifier: ranking
+      name: RANKING 
+      url: /peliculas/peliculas 
+      weight: 65
 params: 
   colorPickerEnabled: true
   color: "#4546e5"

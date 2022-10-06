@@ -1,4 +1,4 @@
-baseURL: localhost
+baseURL: /
 languageCode: es-es
 title: SHC SERVICIOS WEB
 theme: basico

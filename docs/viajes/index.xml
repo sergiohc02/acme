@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>MIS RUTAS DE MONTAÑA on SHC SERVICIOS WEB</title>
-    <link>/viajes/</link>
+    <link>https://sergiohc02.github.io/acme/viajes/</link>
     <description>Recent content in MIS RUTAS DE MONTAÑA on SHC SERVICIOS WEB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
     <managingEditor>contact@shcservices.es (SHC SERVICIOS WEB)</managingEditor>
     <webMaster>contact@shcservices.es (SHC SERVICIOS WEB)</webMaster>
-    <lastBuildDate>Tue, 27 Sep 2022 08:55:04 +0200</lastBuildDate><atom:link href="/viajes/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 27 Sep 2022 08:55:04 +0200</lastBuildDate><atom:link href="https://sergiohc02.github.io/acme/viajes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>MALLOS DE RIGLOS</title>
-      <link>/viajes/mallos/</link>
+      <link>https://sergiohc02.github.io/acme/viajes/mallos/</link>
       <pubDate>Tue, 27 Sep 2022 08:55:04 +0200</pubDate>
       <author>contact@shcservices.es (SHC SERVICIOS WEB)</author>
-      <guid>/viajes/mallos/</guid>
+      <guid>https://sergiohc02.github.io/acme/viajes/mallos/</guid>
       <description>Mallos de Riglos Como metidos en una película de ciencia ficción nos encontramos ante la grandeza de uno de los espectáculos más sorprendentes de la naturaleza. Los Mallos de Riglos se encuentran en la comarca de la Hoya de Huesca en el Prepirineo Aragonés en Huesca.
 Estas montañas de tipo Mallo, emergen majestuosas ante nuestra mirada atónita por semejante paisaje.
 Los imponentes Mallos de Riglos custodian el río Gállego cargado de agua a su paso por esta zona.</description>
@@ -22,29 +22,29 @@ Los imponentes Mallos de Riglos custodian el río Gállego cargado de agua a su 
     
     <item>
       <title>BENASQUE</title>
-      <link>/viajes/benasque/</link>
+      <link>https://sergiohc02.github.io/acme/viajes/benasque/</link>
       <pubDate>Mon, 26 Sep 2022 08:55:04 +0200</pubDate>
       <author>contact@shcservices.es (SHC SERVICIOS WEB)</author>
-      <guid>/viajes/benasque/</guid>
+      <guid>https://sergiohc02.github.io/acme/viajes/benasque/</guid>
       <description>Benasque La naturaleza evoca, en el Valle de Benasque, paz, majestuosidad y cercanía. Un lugar en calma para aprender a disfrutar de momentos de soledad y tranquilidad en una sociedad caracterizada por la inmediatez, pero también momentos de actividad y disfrute al aire libre, escalando montañas, caminando por senderos infinitos, volando en parapente y realizando otras muchas actividades.
 Cambiante con las estaciones, nunca muestra la misma imagen y nunca provoca las mismas sensaciones.</description>
     </item>
     
     <item>
       <title>Pirineo</title>
-      <link>/viajes/pirineo/</link>
+      <link>https://sergiohc02.github.io/acme/viajes/pirineo/</link>
       <pubDate>Wed, 21 Sep 2022 08:55:04 +0200</pubDate>
       <author>contact@shcservices.es (SHC SERVICIOS WEB)</author>
-      <guid>/viajes/pirineo/</guid>
+      <guid>https://sergiohc02.github.io/acme/viajes/pirineo/</guid>
       <description>PIRINEO Soy de Madrid y más castiza que el chotis. Pero tengo muy claro que me gustaría retirarme en el Pirineo. Y es que tiene todo lo que necesito: buena gastronomía, paisajes de infarto, rutas de senderismo para todos los gustos y niveles, pueblos preciosos, actividades deportivas tanto en invierno como en verano, buena gente… Por eso, cuando alguien me pregunta qué hacer en el Pirineo aragonés siempre respondo lo mismo: depende de lo que busques y del plan que lleves.</description>
     </item>
     
     <item>
       <title></title>
-      <link>/viajes/television/</link>
+      <link>https://sergiohc02.github.io/acme/viajes/television/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>contact@shcservices.es (SHC SERVICIOS WEB)</author>
-      <guid>/viajes/television/</guid>
+      <guid>https://sergiohc02.github.io/acme/viajes/television/</guid>
       <description></description>
     </item>
     

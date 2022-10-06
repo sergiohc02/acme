@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Contributos on SHC SERVICIOS WEB</title>
-    <link>/contributos/</link>
+    <link>https://sergiohc02.github.io/acme/contributos/</link>
     <description>Recent content in Contributos on SHC SERVICIOS WEB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
     <managingEditor>contact@shcservices.es (SHC SERVICIOS WEB)</managingEditor>
     <webMaster>contact@shcservices.es (SHC SERVICIOS WEB)</webMaster>
-    <lastBuildDate>Thu, 06 Oct 2022 12:57:28 +0200</lastBuildDate><atom:link href="/contributos/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 06 Oct 2022 12:57:28 +0200</lastBuildDate><atom:link href="https://sergiohc02.github.io/acme/contributos/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Contributos</title>
-      <link>/contributos/contributos/</link>
+      <link>https://sergiohc02.github.io/acme/contributos/contributos/</link>
       <pubDate>Thu, 06 Oct 2022 12:57:28 +0200</pubDate>
       <author>contact@shcservices.es (SHC SERVICIOS WEB)</author>
-      <guid>/contributos/contributos/</guid>
+      <guid>https://sergiohc02.github.io/acme/contributos/contributos/</guid>
       <description>CONTRIBUTOS </description>
     </item>
     

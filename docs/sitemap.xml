@@ -2,65 +2,65 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/contributos/</loc>
+    <loc>https://sergiohc02.github.io/acme/contributos/</loc>
     <lastmod>2022-10-06T12:57:28+02:00</lastmod>
   </url><url>
-    <loc>/contributos/contributos/</loc>
+    <loc>https://sergiohc02.github.io/acme/contributos/contributos/</loc>
     <lastmod>2022-10-06T12:57:28+02:00</lastmod>
   </url><url>
-    <loc>/centros/</loc>
+    <loc>https://sergiohc02.github.io/acme/centros/</loc>
     <lastmod>2022-10-03T09:34:43+02:00</lastmod>
   </url><url>
-    <loc>/centros/institutos/</loc>
+    <loc>https://sergiohc02.github.io/acme/centros/institutos/</loc>
     <lastmod>2022-10-03T09:34:43+02:00</lastmod>
   </url><url>
-    <loc>/peliculas/</loc>
+    <loc>https://sergiohc02.github.io/acme/peliculas/</loc>
     <lastmod>2022-10-03T09:34:43+02:00</lastmod>
   </url><url>
-    <loc>/peliculas/peliculas/</loc>
+    <loc>https://sergiohc02.github.io/acme/peliculas/peliculas/</loc>
     <lastmod>2022-10-03T09:34:43+02:00</lastmod>
   </url><url>
-    <loc>/blog/</loc>
+    <loc>https://sergiohc02.github.io/acme/blog/</loc>
     <lastmod>2022-09-30T08:55:04+02:00</lastmod>
     <priority>0</priority>
   </url><url>
-    <loc>/blog/tercera/</loc>
+    <loc>https://sergiohc02.github.io/acme/blog/tercera/</loc>
     <lastmod>2022-09-30T08:55:04+02:00</lastmod>
   </url><url>
-    <loc>/blog/segunda/</loc>
+    <loc>https://sergiohc02.github.io/acme/blog/segunda/</loc>
     <lastmod>2022-09-30T08:55:04+02:00</lastmod>
   </url><url>
-    <loc>/blog/primera/</loc>
+    <loc>https://sergiohc02.github.io/acme/blog/primera/</loc>
     <lastmod>2022-09-30T08:55:04+02:00</lastmod>
   </url><url>
-    <loc>/television/</loc>
+    <loc>https://sergiohc02.github.io/acme/television/</loc>
     <lastmod>2022-09-29T12:16:28+02:00</lastmod>
   </url><url>
-    <loc>/viajes/mallos/</loc>
+    <loc>https://sergiohc02.github.io/acme/viajes/mallos/</loc>
     <lastmod>2022-09-27T08:55:04+02:00</lastmod>
   </url><url>
-    <loc>/viajes/</loc>
+    <loc>https://sergiohc02.github.io/acme/viajes/</loc>
     <lastmod>2022-09-27T08:55:04+02:00</lastmod>
   </url><url>
-    <loc>/viajes/benasque/</loc>
+    <loc>https://sergiohc02.github.io/acme/viajes/benasque/</loc>
     <lastmod>2022-09-26T08:55:04+02:00</lastmod>
   </url><url>
-    <loc>/</loc>
+    <loc>https://sergiohc02.github.io/acme/</loc>
     <lastmod>2022-09-21T08:55:04+02:00</lastmod>
   </url><url>
-    <loc>/viajes/pirineo/</loc>
+    <loc>https://sergiohc02.github.io/acme/viajes/pirineo/</loc>
     <lastmod>2022-09-21T08:55:04+02:00</lastmod>
   </url><url>
-    <loc>/curriculum/</loc>
+    <loc>https://sergiohc02.github.io/acme/curriculum/</loc>
     <lastmod>2022-09-21T08:53:49+02:00</lastmod>
   </url><url>
-    <loc>/contacto/</loc>
+    <loc>https://sergiohc02.github.io/acme/contacto/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>/viajes/television/</loc>
+    <loc>https://sergiohc02.github.io/acme/viajes/television/</loc>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>https://sergiohc02.github.io/acme/categories/</loc>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>https://sergiohc02.github.io/acme/tags/</loc>
   </url>
 </urlset>

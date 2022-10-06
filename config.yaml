@@ -1,4 +1,4 @@
-baseURL: /
+baseURL: https://sergiohc02.github.io/acme
 languageCode: es-es
 title: SHC SERVICIOS WEB
 theme: basico
@@ -14,22 +14,6 @@ author:
 
 menu:
   main: 
-    - identifier: curriculum
-      name: ACERCA DE
-      url: /curriculum
-      weight: 40
-    - identifier: contacto
-      name: CONTACTO
-      url: /contacto
-      weight: 50 
-    - identifier: viajes
-      name: VIAJES 
-      url: /viajes 
-      weight: 100
-    - identifier: blog
-      name: BLOG 
-      url: /blog 
-      weight: 60
     - identifier: ranking
       name: RANKING CANALES TV 
       url: /peliculas/peliculas 
@@ -38,6 +22,10 @@ menu:
       name: CONTRIBUTOS 
       url: /contributos/contributos 
       weight: 95
+    - identifier: institutos
+      name: INSTITUTOS 
+      url: /centros/institutos
+      weight: 70
 params: 
   colorPickerEnabled: true
   color: "#4546e5"

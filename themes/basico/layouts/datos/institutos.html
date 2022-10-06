@@ -1,0 +1,25 @@
+{{ define "main" }}
+<div class="container">
+<h1 class="titulo">{{ .Title }}</h1>
+{{ .Content }}
+
+{{ $url := "https://docs.google.com/spreadsheets/d/e/2PACX-1vSCtaInFtz0Y7hOP9_tWTvrwn5vMqeKcBk9qWZLIsp4v1rB3GiM178iRHckOn4BC2s9pkW6GfRSqiYK/pub?output=csv"}}
+{{ $sep := ","}}
+<!-- tipo es un parámetro del frontmatter de los institutos -->
+{{ $buscado := .Params.tipo }}
+
+{{ range $i, $r := getCSV $sep $url }}
+
+    {{ if ne $i 0 }}
+    <!-- guardamos en variables nombre y tipo -->
+        {{ $nombre := index $r 5}}
+        {{ $tipo := index $r 6}}
+        {{ if eq $buscado $tipo }}
+             {{ index $r 5 }},  
+        {{end}}
+    {{ end }}
+{{end}}
+
+</div>
+
+{{ end }}

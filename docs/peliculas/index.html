@@ -8,14 +8,6 @@
     
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-iYQeCzEYFbKjA/T2uDLTpkwGzCiq6soy8tYaI1GyVh/UjpbCx/TYkiZhlZB6+fzT" crossorigin="anonymous">
 
- <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css"
-   integrity="sha256-sA+zWATbFveLLNqWO2gtiw3HL/lh1giY/Inf1BJ0z14="
-   crossorigin=""/>
-
-<style>
-#map { height: 240px; }
-</style>
-
 </head>
 </head>
     <body><nav class="navbar navbar-expand-lg bg-light">
@@ -64,51 +56,29 @@
   <header>
     <h1 class="text-center">SHC SERVICIOS WEB</h1>
 </header><div id="content">
-<div class="container">
-<h1 class="titulo">MALLOS DE RIGLOS</h1>
- <div id="map"></div>
-<h2 id="mallos-de-riglos">Mallos de Riglos</h2>
-<p>Como metidos en una película de ciencia ficción nos encontramos ante la grandeza de uno de los espectáculos más sorprendentes de la naturaleza. Los Mallos de Riglos se encuentran en la comarca de la Hoya de Huesca en el Prepirineo Aragonés en Huesca.</p>
-<p>Estas montañas de tipo Mallo, emergen majestuosas ante nuestra mirada atónita por semejante paisaje.</p>
-<p><img src="https://imagenes.elpais.com/resizer/e8YP36EhUGrpVdc3oPz-5HzfxlU=/1960x1470/cloudfront-eu-central-1.images.arcpublishing.com/prisa/HQ76YVZXJNJCO6VTNU2Z5LOQUY.jpg" alt="Mallos"></p>
-<p>Los imponentes Mallos de Riglos custodian el río Gállego cargado de agua a su paso por esta zona. Son el paraíso de muchos tipos de aves como el Quebrantahuesos en vías de extinción y una de las colonias de Buitres Leonados más numerosas de Europa.</p>
-<p>También es el paraíso de escaladores, desde el pueblo podemos verlos colgados de algún Mallo. Desde tan alto las vistas al pueblo y al río Gállego deben ser impresionantes.</p>
+<h2>Peliculas</h2>
+<ul>
 
-</div>
+<li><a href= "/peliculas/peliculas/" >PELÍCULAS</a></li>
 
- <script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js"
-   integrity="sha256-NDI0K41gVbWqfkkaHj15IzU7PtMoelkzyKp8TOaFQ3s="
-   crossorigin=""></script>
- 
+</ul>
+
         </div><footer  class="text-center">
     <small>&copy; 2022 Yo.</small><div class="container">
     <table class="table table-sm">
       <caption>Hugo Variables for current page</caption>
-      <tr><th>Name</th><td>MALLOS DE RIGLOS</td></tr>
-      <tr><th>Kind</th><td>page</td></tr>
-      <tr><th>Type</th><td>viajes</td></tr>
+      <tr><th>Name</th><td>Peliculas</td></tr>
+      <tr><th>Kind</th><td>section</td></tr>
+      <tr><th>Type</th><td>peliculas</td></tr>
       <tr><th>List Page</th><td>.Pages</td></tr>
-      <tr><th>IsPage</th><td>true</td></tr>
-      <tr><th>IsHome</th><td>true</td></tr>
-      <tr><th>Next</th><td>Page(/television.md)</td></tr>
-      <tr><th>Prev</th><td>Page(/viajes/benasque.md)</td></tr>
-      <tr><th>Section</th><td>Page(/viajes/_index.md)</td></tr>
+      <tr><th>IsPage</th><td>false</td></tr>
+      <tr><th>IsHome</th><td>false</td></tr>
+      <tr><th>Next</th><td></td></tr>
+      <tr><th>Prev</th><td></td></tr>
+      <tr><th>Section</th><td>Page(/peliculas)</td></tr>
     </table>
   </div></footer>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-u1OknCvxWvY5kfmNBILK2hRnQC3Pr17a+RTT6rIHI7NnikvbZlHgTPOOmMi466C8" crossorigin="anonymous"></script>
-<script>
-var map = L.map('map').setView([ null ,  null ], 13);
-
-L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
-    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
-}).addTo(map);
-
-L.marker([ null ,  null 
-]).addTo(map)
-    .bindPopup('MALLOS DE RIGLOS');
-    
-</script>
-
 
     </body>
 </html>

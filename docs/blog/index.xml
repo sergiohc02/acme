@@ -2,11 +2,43 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>SHC SERVICIOS WEB</title>
-    <link>/acme/blog/</link>
+    <link>/blog/</link>
     <description>Recent content on SHC SERVICIOS WEB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
     <managingEditor>contact@shcservices.es (SHC SERVICIOS WEB)</managingEditor>
-    <webMaster>contact@shcservices.es (SHC SERVICIOS WEB)</webMaster><atom:link href="/acme/blog/index.xml" rel="self" type="application/rss+xml" />
+    <webMaster>contact@shcservices.es (SHC SERVICIOS WEB)</webMaster>
+    <lastBuildDate>Fri, 30 Sep 2022 08:55:04 +0200</lastBuildDate><atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CONSEJOS</title>
+      <link>/blog/tercera/</link>
+      <pubDate>Fri, 30 Sep 2022 08:55:04 +0200</pubDate>
+      <author>contact@shcservices.es (SHC SERVICIOS WEB)</author>
+      <guid>/blog/tercera/</guid>
+      <description>5 Consejos Importantes 1- Las zapatillas de escalada son zapatillas con suelas lisas hechas de caucho muy adherente.
+2- Un arnés es un cinturón que se pone alrededor de las piernas y cintura de un escalador y se conecta a una cuerda.
+3- Un sistema de aseguramiento es un dispositivo de metal usado para asegurar (un escalador que asegura la cuerda a otro escalador que va subiendo) o en el rápel.</description>
+    </item>
+    
+    <item>
+      <title>MATERIAL DE ESCALDA</title>
+      <link>/blog/segunda/</link>
+      <pubDate>Fri, 30 Sep 2022 08:55:04 +0200</pubDate>
+      <author>contact@shcservices.es (SHC SERVICIOS WEB)</author>
+      <guid>/blog/segunda/</guid>
+      <description>Material En la actualidad, para practicar el deporte de la escalada, no es necesario transportarse hasta las montañas, ya que existen una gran cantidad de rocódromos que ofrecen la posibilidad de escalar en interior. Para aquellos que viven o viajan frecuentemente a las montañas, escalar en un entorno natural es la mejor alternativa.
+Prepárate para practicar este emocionante deporte y descubre la amplia gama de calzado, ropa, accesorios y equipamiento para escalada de tu tienda especialista CAMPZ.</description>
+    </item>
+    
+    <item>
+      <title>TECNICAS DE</title>
+      <link>/blog/primera/</link>
+      <pubDate>Fri, 30 Sep 2022 08:55:04 +0200</pubDate>
+      <author>contact@shcservices.es (SHC SERVICIOS WEB)</author>
+      <guid>/blog/primera/</guid>
+      <description>Primeros Pasos Consiste en colocar el cuerpo frente a la pared con las piernas flexionadas y las rodillas hacia fuera. Permite ahorrar energía especialmente cuando estiramos los brazos estirados y llegar más fácilmente al próximo canto al estirar las piernas.
+Es uno de los primeros movimientos que se aprende, sobre todo si empiezas en salas de búlder o rocódromos donde es muy fácil empezar a experimentar en desplomes. Este movimiento es la alternativa menos costosa a intentar ir a por un agarre bloqueando los dos brazos e intentando lanzarse al canto al que quieres llegar.</description>
+    </item>
+    
   </channel>
 </rss>

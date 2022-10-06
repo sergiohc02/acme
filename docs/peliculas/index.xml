@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Peliculas on SHC SERVICIOS WEB</title>
+    <link>/peliculas/</link>
+    <description>Recent content in Peliculas on SHC SERVICIOS WEB</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <managingEditor>contact@shcservices.es (SHC SERVICIOS WEB)</managingEditor>
+    <webMaster>contact@shcservices.es (SHC SERVICIOS WEB)</webMaster>
+    <lastBuildDate>Mon, 03 Oct 2022 09:34:43 +0200</lastBuildDate><atom:link href="/peliculas/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PELÍCULAS</title>
+      <link>/peliculas/peliculas/</link>
+      <pubDate>Mon, 03 Oct 2022 09:34:43 +0200</pubDate>
+      <author>contact@shcservices.es (SHC SERVICIOS WEB)</author>
+      <guid>/peliculas/peliculas/</guid>
+      <description>RANKING DE PELÍCULAS </description>
+    </item>
+    
+  </channel>
+</rss>

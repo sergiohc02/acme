@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on SHC SERVICIOS WEB</title>
-    <link>/acme/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on SHC SERVICIOS WEB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
     <managingEditor>contact@shcservices.es (SHC SERVICIOS WEB)</managingEditor>
-    <webMaster>contact@shcservices.es (SHC SERVICIOS WEB)</webMaster><atom:link href="/acme/tags/index.xml" rel="self" type="application/rss+xml" />
+    <webMaster>contact@shcservices.es (SHC SERVICIOS WEB)</webMaster><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

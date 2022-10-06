@@ -1,62 +1,139 @@
-<rss version="2.0"
-  xmlns:atom="http://www.w3.org/2005/Atom">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ACME Corp. on SHC SERVICIOS WEB</title>
-    <link>/acme/</link>
+    <link>/</link>
     <description>Recent content in ACME Corp. on SHC SERVICIOS WEB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
     <managingEditor>contact@shcservices.es (SHC SERVICIOS WEB)</managingEditor>
     <webMaster>contact@shcservices.es (SHC SERVICIOS WEB)</webMaster>
-    <lastBuildDate>Wed, 21 Sep 2022 08:55:04 +0200</lastBuildDate>
-    
-        <atom:link href="/acme/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Wed, 21 Sep 2022 08:55:04 +0200</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contributos</title>
+      <link>/contributos/contributos/</link>
+      <pubDate>Thu, 06 Oct 2022 12:57:28 +0200</pubDate>
+      <author>contact@shcservices.es (SHC SERVICIOS WEB)</author>
+      <guid>/contributos/contributos/</guid>
+      <description>CONTRIBUTOS </description>
+    </item>
     
     <item>
-<title>MALLOS DE RIGLOS</title>
-<link>/acme/viajes/mallos/</link>
-<pubDate>Tue, 27 Sep 2022 08:55:04 +0200</pubDate>
+      <title>INSTITUTOS</title>
+      <link>/centros/institutos/</link>
+      <pubDate>Mon, 03 Oct 2022 09:34:43 +0200</pubDate>
       <author>contact@shcservices.es (SHC SERVICIOS WEB)</author>
-      <guid>/acme/viajes/mallos/</guid>
-<description></description>
-<category></category></item>
+      <guid>/centros/institutos/</guid>
+      <description>CENTROS EDUCATIVOS </description>
+    </item>
     
     <item>
-<title>BENASQUE</title>
-<link>/acme/viajes/benasque/</link>
-<pubDate>Mon, 26 Sep 2022 08:55:04 +0200</pubDate>
+      <title>PELÍCULAS</title>
+      <link>/peliculas/peliculas/</link>
+      <pubDate>Mon, 03 Oct 2022 09:34:43 +0200</pubDate>
       <author>contact@shcservices.es (SHC SERVICIOS WEB)</author>
-      <guid>/acme/viajes/benasque/</guid>
-<description></description>
-<category></category></item>
+      <guid>/peliculas/peliculas/</guid>
+      <description>RANKING DE PELÍCULAS </description>
+    </item>
     
     <item>
-<title>Pirineo</title>
-<link>/acme/viajes/pirineo/</link>
-<pubDate>Wed, 21 Sep 2022 08:55:04 +0200</pubDate>
+      <title>CONSEJOS</title>
+      <link>/blog/tercera/</link>
+      <pubDate>Fri, 30 Sep 2022 08:55:04 +0200</pubDate>
       <author>contact@shcservices.es (SHC SERVICIOS WEB)</author>
-      <guid>/acme/viajes/pirineo/</guid>
-<description></description>
-<category></category></item>
+      <guid>/blog/tercera/</guid>
+      <description>5 Consejos Importantes 1- Las zapatillas de escalada son zapatillas con suelas lisas hechas de caucho muy adherente.
+2- Un arnés es un cinturón que se pone alrededor de las piernas y cintura de un escalador y se conecta a una cuerda.
+3- Un sistema de aseguramiento es un dispositivo de metal usado para asegurar (un escalador que asegura la cuerda a otro escalador que va subiendo) o en el rápel.</description>
+    </item>
     
     <item>
-<title>Curriculum</title>
-<link>/acme/curriculum/</link>
-<pubDate>Wed, 21 Sep 2022 08:53:49 +0200</pubDate>
+      <title>MATERIAL DE ESCALDA</title>
+      <link>/blog/segunda/</link>
+      <pubDate>Fri, 30 Sep 2022 08:55:04 +0200</pubDate>
       <author>contact@shcservices.es (SHC SERVICIOS WEB)</author>
-      <guid>/acme/curriculum/</guid>
-<description></description>
-<category></category></item>
+      <guid>/blog/segunda/</guid>
+      <description>Material En la actualidad, para practicar el deporte de la escalada, no es necesario transportarse hasta las montañas, ya que existen una gran cantidad de rocódromos que ofrecen la posibilidad de escalar en interior. Para aquellos que viven o viajan frecuentemente a las montañas, escalar en un entorno natural es la mejor alternativa.
+Prepárate para practicar este emocionante deporte y descubre la amplia gama de calzado, ropa, accesorios y equipamiento para escalada de tu tienda especialista CAMPZ.</description>
+    </item>
     
     <item>
-<title></title>
-<link>/acme/contacto/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>TECNICAS DE</title>
+      <link>/blog/primera/</link>
+      <pubDate>Fri, 30 Sep 2022 08:55:04 +0200</pubDate>
       <author>contact@shcservices.es (SHC SERVICIOS WEB)</author>
-      <guid>/acme/contacto/</guid>
-<description></description>
-<category></category></item>
+      <guid>/blog/primera/</guid>
+      <description>Primeros Pasos Consiste en colocar el cuerpo frente a la pared con las piernas flexionadas y las rodillas hacia fuera. Permite ahorrar energía especialmente cuando estiramos los brazos estirados y llegar más fácilmente al próximo canto al estirar las piernas.
+Es uno de los primeros movimientos que se aprende, sobre todo si empiezas en salas de búlder o rocódromos donde es muy fácil empezar a experimentar en desplomes. Este movimiento es la alternativa menos costosa a intentar ir a por un agarre bloqueando los dos brazos e intentando lanzarse al canto al que quieres llegar.</description>
+    </item>
+    
+    <item>
+      <title>Television</title>
+      <link>/television/</link>
+      <pubDate>Thu, 29 Sep 2022 12:16:28 +0200</pubDate>
+      <author>contact@shcservices.es (SHC SERVICIOS WEB)</author>
+      <guid>/television/</guid>
+      <description>CANALES DE TELEVISIÓN Bla bla bla &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>MALLOS DE RIGLOS</title>
+      <link>/viajes/mallos/</link>
+      <pubDate>Tue, 27 Sep 2022 08:55:04 +0200</pubDate>
+      <author>contact@shcservices.es (SHC SERVICIOS WEB)</author>
+      <guid>/viajes/mallos/</guid>
+      <description>Mallos de Riglos Como metidos en una película de ciencia ficción nos encontramos ante la grandeza de uno de los espectáculos más sorprendentes de la naturaleza. Los Mallos de Riglos se encuentran en la comarca de la Hoya de Huesca en el Prepirineo Aragonés en Huesca.
+Estas montañas de tipo Mallo, emergen majestuosas ante nuestra mirada atónita por semejante paisaje.
+Los imponentes Mallos de Riglos custodian el río Gállego cargado de agua a su paso por esta zona.</description>
+    </item>
+    
+    <item>
+      <title>BENASQUE</title>
+      <link>/viajes/benasque/</link>
+      <pubDate>Mon, 26 Sep 2022 08:55:04 +0200</pubDate>
+      <author>contact@shcservices.es (SHC SERVICIOS WEB)</author>
+      <guid>/viajes/benasque/</guid>
+      <description>Benasque La naturaleza evoca, en el Valle de Benasque, paz, majestuosidad y cercanía. Un lugar en calma para aprender a disfrutar de momentos de soledad y tranquilidad en una sociedad caracterizada por la inmediatez, pero también momentos de actividad y disfrute al aire libre, escalando montañas, caminando por senderos infinitos, volando en parapente y realizando otras muchas actividades.
+Cambiante con las estaciones, nunca muestra la misma imagen y nunca provoca las mismas sensaciones.</description>
+    </item>
+    
+    <item>
+      <title>Pirineo</title>
+      <link>/viajes/pirineo/</link>
+      <pubDate>Wed, 21 Sep 2022 08:55:04 +0200</pubDate>
+      <author>contact@shcservices.es (SHC SERVICIOS WEB)</author>
+      <guid>/viajes/pirineo/</guid>
+      <description>PIRINEO Soy de Madrid y más castiza que el chotis. Pero tengo muy claro que me gustaría retirarme en el Pirineo. Y es que tiene todo lo que necesito: buena gastronomía, paisajes de infarto, rutas de senderismo para todos los gustos y niveles, pueblos preciosos, actividades deportivas tanto en invierno como en verano, buena gente… Por eso, cuando alguien me pregunta qué hacer en el Pirineo aragonés siempre respondo lo mismo: depende de lo que busques y del plan que lleves.</description>
+    </item>
+    
+    <item>
+      <title>Acerca de</title>
+      <link>/curriculum/</link>
+      <pubDate>Wed, 21 Sep 2022 08:53:49 +0200</pubDate>
+      <author>contact@shcservices.es (SHC SERVICIOS WEB)</author>
+      <guid>/curriculum/</guid>
+      <description>Mi Curriculum Mi nombre es Sergio, y soy alumno.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/contacto/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>contact@shcservices.es (SHC SERVICIOS WEB)</author>
+      <guid>/contacto/</guid>
+      <description>DATOS DE CONTACTO Introduzca e-mail:
+Introduzca su nombre:
+ENVIARUBICACIÓN </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/viajes/television/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>contact@shcservices.es (SHC SERVICIOS WEB)</author>
+      <guid>/viajes/television/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

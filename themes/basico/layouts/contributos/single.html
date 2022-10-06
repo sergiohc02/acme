@@ -1,0 +1,7 @@
+{{ $headers := (dict "Authorization" "Basic my_github_user:my_personal_access_token") }}
+{{ $contributors := getJSON "https://api.github.com/repos/gohugoio/hugo/contributors" $headers }}
+{{ range $contributors }}
+  <a href="{{ .url }}">
+    <img src="{{ .avatar_url }}" alt="{{ .login }}" width="50">
+  </a>
+{{ end }}

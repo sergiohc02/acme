@@ -31,9 +31,13 @@ menu:
       url: /blog 
       weight: 60
     - identifier: ranking
-      name: RANKING 
+      name: RANKING CANALES TV 
       url: /peliculas/peliculas 
       weight: 65
+    - identifier: contributos
+      name: CONTRIBUTOS 
+      url: /contributos/contributos 
+      weight: 95
 params: 
   colorPickerEnabled: true
   color: "#4546e5"
